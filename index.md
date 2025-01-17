@@ -1,10 +1,6 @@
 ###Hello
 
-<style>
-img {
-  border-radius: 50%;
-}
-</style>
+
 <img  align="left" src="Images/Camilo_C.png" style="width:200px">
 
 
