@@ -1,4 +1,4 @@
-### Hello
+## Hello
 
 <img align="left" style="width:200px; height:200px; border-radius:50%;" src="Images/Camilo_C.png">
 
@@ -6,5 +6,13 @@ My name is Camilo Castro. I am what most people might consider a jack of all tra
 
 I hope that small introduction entices your curiosity for more information; nonetheless, here is a small compilation of the many topics I have been interested and working on. I have always considered security to be the place for people such as myself who like and want to learn about everything.
 
+
+### Certifications
+
+*   AWS Solutions Architect Associate
+*   AWS Cloud Practitioner
+*   Cisco Certified Network Associate
+*   CompTIA Linux +
+*   ITIL V4 Fundamentals
 
 
