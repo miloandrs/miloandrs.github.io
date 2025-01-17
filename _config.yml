@@ -1,9 +1,6 @@
 title: Camilo Castro
 description: Portfolio of career projects
-show_downloads: false
+show_downloads: False
 google_analytics: false
 theme: jekyll-theme-hacker
 
-
-header:
-  display: none 
