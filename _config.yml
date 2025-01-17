@@ -5,5 +5,5 @@ google_analytics: false
 theme: jekyll-theme-hacker
 
 
-github:
-  is_project_page: false
+header:
+  display: none 
