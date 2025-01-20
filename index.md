@@ -27,5 +27,34 @@ I hope that small introduction entices your curiosity for more information; none
 * Cisco Network Management, Troubleshooting and Support
 * Technical Writing and Documentation Creation
 * Analytical Problem Solving
+* Tools
+  > WireShark <br>
+  > Nmap <br>
+  > NetCat <br>
+  > Burp Suite <br>
+  > MetaSploit <br>
+  > Service Now
+  > SQL Map
+
+## Work Experience
+
+#### Amazon <br>
+- Information Technology Support Engineer 2020 - Present
+    - Manage and mentor a team of 16 technicians and engineers <br>
+    - Process improvements and engineering <br>
+    - Deployment of relevant fullfilment center network infrastructure <br>
+    - Technical writing and SOP creation <br>
+    - **Network Development Apprenticeship (_2023 to 2024_)** <br>
+        - Python Development Using Napalm Library <br>
+        - Troubleshooting of Cisco devices (9k) <br>
+        - Development for internal API using Flask library <br>
+        - Research and resolve infrastructure issues such as hidden or unmanaged network devices from any vendor and internal dns api record deployment. <br>
+        - Write code to resolve issues in python and deploy to internal code repo usign git and following company standards for code reviews. <br>
+        - Lead network design infrastructure deployment project for multiple sites globally
+    - Travel to support project deployment as well as other assigned deployments around the US.
+    - Lifecycle network devices such as switches, routers, access points and wireless controllers
+    - Deploy other local node end user requested solutions such as displays, conference room setups, workstation deployments.
+    - Windows and Linux Server deployments and configurations
+    - Troubleshoot and manage aspects of multiple operative systems such as MacOS, Windows(Server 2019, 11/10), Linux(Ubuntu, Fedora, RHEL)
   
 
