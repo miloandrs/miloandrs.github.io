@@ -38,23 +38,62 @@ I hope that small introduction entices your curiosity for more information; none
 
 ## Work Experience
 
-#### Amazon <br>
-- Information Technology Support Engineer 2020 - Present
+> [!NOTE]  
+> Please expand as needed for details
+
+<details>
+<summary> <h2>Amazon</h2> </summary>
+    
+- **Information Technology Support Engineer 2020 - Present**
     - Manage and mentor a team of 16 technicians and engineers <br>
     - Process improvements and engineering <br>
     - Deployment of relevant fullfilment center network infrastructure <br>
     - Technical writing and SOP creation <br>
     - **Network Development Apprenticeship (_2023 to 2024_)** <br>
-        - Python Development Using Napalm Library <br>
-        - Troubleshooting of Cisco devices (9k) <br>
-        - Development for internal API using Flask library <br>
-        - Research and resolve infrastructure issues such as hidden or unmanaged network devices from any vendor and internal dns api record deployment. <br>
-        - Write code to resolve issues in python and deploy to internal code repo usign git and following company standards for code reviews. <br>
-        - Lead network design infrastructure deployment project for multiple sites globally
+        > - Python Development Using Napalm Library <br>
+        > - Network Development with Ansible. <br>
+        > - Troubleshooting of Cisco devices (9k) <br>
+        > - Development for internal API using Flask library <br>
+        > - Research and resolve infrastructure issues such as hidden or unmanaged network devices from any vendor and internal dns api record deployment. <br>
+        > - Write code to resolve issues in python and deploy to internal code repo usign git and following company standards for code reviews. <br>
+        > - Lead network design infrastructure deployment project for multiple sites globally
     - Travel to support project deployment as well as other assigned deployments around the US.
     - Lifecycle network devices such as switches, routers, access points and wireless controllers
     - Deploy other local node end user requested solutions such as displays, conference room setups, workstation deployments.
     - Windows and Linux Server deployments and configurations
     - Troubleshoot and manage aspects of multiple operative systems such as MacOS, Windows(Server 2019, 11/10), Linux(Ubuntu, Fedora, RHEL)
+- **Information Technology Support Associate/ IT Tech 2016 - 2020**
+    - End user equipment deployment
+    - Hardware replacement and troubleshooting
+    - Ticketing system monitoring
+    - Inventory management
+   
+- **Relevant Amazon Projects** <br>
+    - Deployed network infrastructure using a solution that leveraged the power of docker to segregate and push configuration on Juniper devices through their management and console ports. <br>
+    - Searched and configured vendor deployed network light ESP32 controllers <br>
+    - Deployed all aspects of the network, end user equipment and connectivity for multiple Amazon 1MM+ squarefoot new sites. Owned updates and project updates to relevant stakeholders. <br>
+    - Participated with local teams as a "Tiger Team" member in order to deploy and phase out old network design into the new spine leaf variant. Project spanned multiple fullfilment centers in the United Stated. Tiger Team was in charge of reviewing local site preparations prior to scheduled conversion date. During conversion, we oversaw that devices were cabled properly, received configurations from the automation, troubleshoot issues as they arose and provide updates to owning NDE. Some of these conversion has all sorts of barriers such as devices connected to the worng upstream devices, devices not added to management software, misconfigured devices, special requirement devices such as PLCs and other controllers.  <br>
+    - Participated as NDE for the same network infrastructure project, I was assigned multiple sites to prepare and carry through said migration. I had to run automation mothership script and oversee firmware deployment, configuration, management software proper adoption, local issues as escalated, automation code troubleshooting, and run checks as needed. Write after action reports and raise sprint tickets for issues seen during said migrations. Write code to deploy updates to automation tasks or to resolve issues. <br>
+    - Specific deployments from me were a function to pull a known list of Cisco and other venfor MAC addresses, scan the local network using management tool api for uplinks/ports, match found mac addresses to scanned ports and verify if these are already added to management software. If the devices were not found in management software, create a ticket to local teams to add said device. <br>
+    
+</details>
+
+<details>
+<summary> <h2>Empiric</h2> </summary>
+
+- Mobile phone research
+    - Unlock bootloader of personal devices
+    - Used android recovery to flash test firmware on the devices in an effor to achieve root and test locked functionality.
+    - Replaced components as needed such as displays, motherboards or digitizers.
+- Penetration test on own wireless network secured with Wireless Equivalent Privacy | Year 2009.
+    - Using a laptop with Fedora, I researched the method to install monitoring drivers for my Atheros wireless card in order to monitor authentication traffic from other laptops and devices using the network. Using the Aircrack-ng suite in more detail airmon to control monitoring, aireplay to inject packets, airodump to capture beacons from the AP. After multiple tries for a fake authentication or grabbing the mac from an already authenticated device, a cap file was abtained which was subsequently decoded with aircrack. Eventually I decided that WEP was relatively weak and moved my network for WPA.
+- Currently Writting a network automation tool for myself using Napalm and Netmiko libraries in python. [Personal Python Clients GitHub](https://github.com/miloandrs/Personal_Python_Clients)
+  
+    
+</details>
+
+
+
+
   
 
