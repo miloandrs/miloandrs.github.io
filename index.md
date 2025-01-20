@@ -1,4 +1,4 @@
-## Hello
+# Hello
 
 <img align="left" style="width:200px; height:200px; border-radius:50%;" src="Images/Camilo_C.png">
 
@@ -7,7 +7,10 @@ My name is Camilo Castro. I am what most people might consider a jack of all tra
 I hope that small introduction entices your curiosity for more information; nonetheless, here is a small compilation of the many topics I have been interested and working on. I have always considered security to be the place for people such as myself who like and want to learn about everything.
 
 
-### Certifications
+## Education
+
+*  Bachelor's of Science from Berkely College
+    > Information Technology Management | 2019 | GPA: 3.92 | Magna Cum Laude Honors
 
 *   [AWS Solutions Architect Associate](https://cp.certmetrics.com/amazon/en/public/verify/credential/4e4f7854294e48e6a53d3cb1ff10bc50)
 *   [AWS Cloud Practitioner](https://www.credly.com/badges/9b8e92bf-f6c5-4e1e-a749-6e108308e6a8)
