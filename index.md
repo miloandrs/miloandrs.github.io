@@ -9,10 +9,10 @@ I hope that small introduction entices your curiosity for more information; none
 
 ### Certifications
 
-*   AWS Solutions Architect Associate
-*   AWS Cloud Practitioner
-*   Cisco Certified Network Associate
-*   CompTIA Linux +
-*   ITIL V4 Fundamentals
+*   [AWS Solutions Architect Associate](https://cp.certmetrics.com/amazon/en/public/verify/credential/4e4f7854294e48e6a53d3cb1ff10bc50)
+*   [AWS Cloud Practitioner](https://www.credly.com/badges/9b8e92bf-f6c5-4e1e-a749-6e108308e6a8)
+*   [Cisco Certified Network Associate](https://www.credly.com/badges/15dca3f1-29e8-4a34-abd6-1cab661b90f2/linked_in_profile)
+*   [CompTIA Linux +](https://www.credly.com/badges/61c3880e-c57a-4304-99ff-dd898d9fc116/public_url)
+*   [ITIL V4 Fundamentals]
 
 
