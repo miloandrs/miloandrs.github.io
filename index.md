@@ -36,11 +36,7 @@ I hope that small introduction entices your curiosity for more information; none
 
 ## Work Experience
 
-> [!NOTE]  
-> Please expand as needed for details
-
-<details>
-<summary> <h2>Amazon</h2> </summary>
+<h2>Amazon</h2> 
     
 - **Information Technology Support Engineer 2020 - Present**
     - Manage and mentor a team of 16 technicians and engineers <br>
@@ -74,7 +70,6 @@ I hope that small introduction entices your curiosity for more information; none
     - Participated as NDE for the same network infrastructure project, I was assigned multiple sites to prepare and carry through said migration. I had to run automation mothership script and oversee firmware deployment, configuration, management software proper adoption, local issues as escalated, automation code troubleshooting, and run checks as needed. Write after action reports and raise sprint tickets for issues seen during said migrations. Write code to deploy updates to automation tasks or to resolve issues. <br>
     - Specific deployments from me were a function to pull a known list of Cisco and other venfor MAC addresses, scan the local network using management tool api for uplinks/ports, match found mac addresses to scanned ports and verify if these are already added to management software. If the devices were not found in management software, create a ticket to local teams to add said device. <br>
     
-</details>
 
 
 <h2>Empiric</h2>
