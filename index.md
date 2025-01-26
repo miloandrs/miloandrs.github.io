@@ -76,8 +76,8 @@ I hope that small introduction entices your curiosity for more information; none
     
 </details>
 
-<details>
-<summary> <h2>Empiric</h2> </summary>
+
+<h2>Empiric</h2>
 
 - Mobile phone research
     - Unlock bootloader of personal devices
@@ -88,7 +88,7 @@ I hope that small introduction entices your curiosity for more information; none
 - Currently Writting a network automation tool for myself using Napalm and Netmiko libraries in python. [Personal Python Clients GitHub](https://github.com/miloandrs/Personal_Python_Clients)
   
     
-</details>
+
 
 
 
